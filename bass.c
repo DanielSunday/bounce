@@ -1,6 +1,6 @@
 #include "bass.h"
 
-#include <portaudio/portaudio.h>
+#include "portaudio.h"
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdio.h>
