@@ -1,6 +1,6 @@
 # bounce
 
-A tiny platformer game made in C, for Linux.
+A tiny platformer game made in C, using OpenGL.
 
 <img src="http://i.stack.imgur.com/zV5rt.gif" width="300"/>
 
@@ -15,7 +15,7 @@ A tiny platformer game made in C, for Linux.
 
 Requires OpenGL 3.3, GLEW, GLFW 3 and portaudio.
 
-## How to install dependencies in Ubuntu
+## How to install dependencies in Ubuntu Linux
 
     $ sudo apt install libglfw3 libglfw3-dev libglew1.13 libglew-dev portaudio19-dev
 
